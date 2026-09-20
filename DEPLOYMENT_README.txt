@@ -15,3 +15,11 @@ Deployment:
 4. GitHub Pages will redeploy automatically.
 
 The forms do not submit or store information. Users complete them locally in their browser and print or save as PDF.
+
+PRINTING UPDATE
+- The LEAGUE USE ONLY sections remain visible online for league staff, but are hidden from applicant-generated print/PDF copies.
+- The Coaches Application is scaled to print on one Letter-size page.
+- The fillable first page of the Background Check prints on one Letter-size page; the process information remains on its own following page.
+
+
+UPDATE: Added schedule.html with the LeagueApps leagueListings widget and a Schedule tab in site navigation.
