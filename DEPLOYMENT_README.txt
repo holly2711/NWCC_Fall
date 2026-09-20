@@ -23,3 +23,5 @@ PRINTING UPDATE
 
 
 UPDATE: Added schedule.html with the LeagueApps leagueListings widget and a Schedule tab in site navigation.
+
+Latest updates: homepage registration button removed; season dates removed from homepage and FAQs; navigation registration link changed to Schedule; LeagueApps schedule widget updated to 700px and wrapper scrolling removed.
