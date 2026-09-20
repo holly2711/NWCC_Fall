@@ -171,7 +171,7 @@ a{color:inherit}
 .button-outline{border:2px solid var(--pink);color:var(--pink);background:white}
 
 .facts{background:linear-gradient(90deg,var(--navy-dark),var(--navy));color:white}
-.fact-grid{display:grid;grid-template-columns:repeat(6,1fr)}
+.fact-grid{display:grid;grid-template-columns:repeat(5,1fr)}
 .fact{
   min-height:150px;
   display:grid;
@@ -421,7 +421,7 @@ footer{
 .value-card>span{width:64px;height:64px;margin:0 auto 12px;display:grid;place-items:center;border-radius:50%;color:#fff;background:var(--pink);font-size:28px}
 .value-card h3{margin:0;color:var(--navy);font-family:"Bebas Neue",sans-serif;font-size:30px;text-transform:uppercase}
 .split-info-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}.accent-card{background:linear-gradient(135deg,#fff,var(--blue-soft));border-top-color:var(--navy)}
-.faq-stat-band{background:linear-gradient(90deg,var(--navy-dark),var(--navy));color:#fff}.faq-stat-grid{display:grid;grid-template-columns:repeat(4,1fr)}
+.faq-stat-band{background:linear-gradient(90deg,var(--navy-dark),var(--navy));color:#fff}.faq-stat-grid{display:grid;grid-template-columns:repeat(3,1fr)}
 .faq-stat-grid>div{min-height:125px;padding:20px;display:grid;place-content:center;text-align:center;border-right:1px solid rgba(255,255,255,.38)}
 .faq-stat-grid>div:last-child{border-right:0}.faq-stat-grid span{color:var(--pink);font-size:29px;line-height:1}
 .faq-stat-grid strong{margin-top:7px;font-family:"Bebas Neue",sans-serif;text-transform:uppercase;font-size:22px;letter-spacing:1px}.faq-stat-grid small{font-size:13px}
